@@ -61,9 +61,25 @@ Runs on `http://localhost:5173`
 
 ## Deployment
 
-- **Backend:** Render/Railway, set `PORT` env var
-- **Frontend:** Vercel/Netlify, set `VITE_API_BASE_URL` to deployed backend URL
+- **Backend:** Deployed on Render → https://campus-pulse-backend-ge6l.onrender.com
+- **Frontend:** Deployed on Vercel → https://campus-pulse-sigma-steel.vercel.app
 
+Note: the backend is on Render's free tier, so it may take 20–30 seconds to wake up on the first request after a period of inactivity.
+
+## Overview
+
+Campus Pulse is a full-stack dashboard where students can browse campus notices and events in one place. The frontend is a React SPA that talks to a small Express API serving JSON data (no database, kept intentionally simple). It supports combined search and category filtering, URL-based detail routes, dark mode, bookmarks, and pagination, with a fully responsive layout that switches to a bottom navigation bar on mobile. The UI uses a glassmorphism design system built with custom CSS variables for theming.
+
+## Challenges Faced
+
+- **Build failure on Vercel due to Vite version conflict:** The project initially used Vite 8 (with its new rolldown bundler), which threw an internal `Cannot assign to read only property` error during production builds. Downgraded to Vite 5 and `@vitejs/plugin-react` 4.2.1 to get a stable, reproducible build.
+- **Blank white screen after deploy:** After the Vite downgrade, the production bundle threw `Uncaught ReferenceError: React is not defined`, since the JSX runtime wasn't being applied correctly by the older plugin version. Fixed by explicitly setting `jsxRuntime: 'automatic'` in `vite.config.js` and doing a clean reinstall of `node_modules`.
+- **Combining search and category filtering:** Needed both filters to work together rather than overriding each other, so the backend route accepts both `search` and `category` query params simultaneously and applies them as sequential filters on the same dataset.
+- **Deploying frontend and backend separately:** Since the backend is a long-running Express server (not serverless-friendly), it was deployed to Render while the frontend went to Vercel, connected via an environment variable (`VITE_API_BASE_URL`) pointing to the live backend URL.
+
+## Author
+
+Ashutosh Tanguria
 ## Author
 
 Ashutosh Tanguria
