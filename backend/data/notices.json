@@ -1,0 +1,110 @@
+[
+  {
+    "id": "n1",
+    "title": "End Semester Examination Schedule Revised",
+    "category": "Academics",
+    "postedDate": "2026-07-06T09:00:00Z",
+    "author": "Academic Section",
+    "summary": "Revised end semester examination schedule released.",
+    "content": "The revised end semester examination schedule has been published on the ERP portal. Students are advised to download the updated timetable and verify the examination dates for all registered courses. Any discrepancy should be reported to the Academic Section within two working days."
+  },
+  {
+    "id": "n2",
+    "title": "ERP Maintenance Scheduled This Weekend",
+    "category": "ERP",
+    "postedDate": "2026-07-05T18:30:00Z",
+    "author": "ERP Cell",
+    "summary": "ERP services will remain unavailable during scheduled maintenance.",
+    "content": "The ERP portal will undergo scheduled server maintenance from Saturday 11:00 PM to Sunday 7:00 AM. During this period, course registration, fee payment, grade viewing, and other online services may remain unavailable. Students are requested to plan accordingly."
+  },
+  {
+    "id": "n3",
+    "title": "Hall Allotment Schedule Updated for Autumn Semester",
+    "category": "Hall Affairs",
+    "postedDate": "2026-07-05T10:30:00Z",
+    "author": "Dean of Students' Affairs",
+    "summary": "Revised hostel allotment timeline announced.",
+    "content": "The hall allotment schedule for the Autumn Semester has been updated due to ongoing maintenance in selected hostels. Students should regularly check the ERP portal for allotment status and reporting instructions."
+  },
+  {
+    "id": "n4",
+    "title": "Central Library Closed on Sunday",
+    "category": "Library",
+    "postedDate": "2026-07-04T14:00:00Z",
+    "author": "Central Library",
+    "summary": "Library building closed due to polling arrangements.",
+    "content": "The Central Library will remain closed on Sunday due to polling arrangements for local elections. Digital resources, e-books, and online journals will remain accessible through the library portal. Regular library services will resume on Monday."
+  },
+  {
+    "id": "n5",
+    "title": "72nd Annual Convocation Registration Begins",
+    "category": "Administration",
+    "postedDate": "2026-07-04T09:00:00Z",
+    "author": "Office of the Registrar",
+    "summary": "Eligible graduating students may register online.",
+    "content": "Online registration for the 72nd Annual Convocation is now open. Eligible students are requested to complete registration, verify personal details, and submit gown size preferences before the prescribed deadline. Detailed instructions are available on the institute website."
+  },
+  {
+    "id": "n6",
+    "title": "Google India Pre-Placement Talk Registration Open",
+    "category": "Placements",
+    "postedDate": "2026-07-03T16:30:00Z",
+    "author": "Career Development Centre",
+    "summary": "Registration through CDC portal is mandatory.",
+    "content": "Eligible students interested in attending the Google India Pre-Placement Talk must register through the CDC portal. The session will include internship opportunities, hiring process, interview preparation, and an interactive Q&A with recruiters."
+  },
+  {
+    "id": "n7",
+    "title": "CGS Weekly GMeeting",
+    "category": "CGS",
+    "postedDate": "2026-07-03T11:00:00Z",
+    "author": "Computer Graphics Society",
+    "summary": "Meeting scheduled at CTLVS this Sunday evening.",
+    "content": "The weekly General Body Meeting of the Computer Graphics Society will be held at CTLVS, Technology Students' Gymkhana. Agenda includes project showcases, recruitment updates, upcoming workshops, and discussion of semester activities. All members are encouraged to attend."
+  },
+  {
+    "id": "n8",
+    "title": "Kshitij Recognized Among Asia's Leading Tech Festivals",
+    "category": "Fests",
+    "postedDate": "2026-07-02T13:00:00Z",
+    "author": "Kshitij Organizing Committee",
+    "summary": "Kshitij continues its international recognition.",
+    "content": "Kshitij, IIT Kharagpur's annual techno-management festival, has received continued international recognition as one of Asia's premier student-led technology festivals. Students interested in joining the organizing team may apply through the official recruitment portal."
+  },
+  {
+    "id": "n9",
+    "title": "Research Internship Information Session",
+    "category": "Research",
+    "postedDate": "2026-07-02T09:30:00Z",
+    "author": "Office of International Relations",
+    "summary": "Session on domestic and international research internships.",
+    "content": "An information session covering research internship opportunities, DAAD, MITACS, and faculty-led summer research programs will be conducted next week. Students from all departments are welcome to participate."
+  },
+  {
+    "id": "n10",
+    "title": "Campus Network Upgrade",
+    "category": "IT Services",
+    "postedDate": "2026-07-01T18:00:00Z",
+    "author": "Computer & Informatics Centre",
+    "summary": "Temporary internet interruptions expected.",
+    "content": "Network infrastructure upgrades are scheduled across academic buildings and student halls. Short internet interruptions may occur during the maintenance window. Services are expected to be fully restored after completion of the upgrade."
+  },
+  {
+    "id": "n11",
+    "title": "Freshers' Induction Programme Schedule Released",
+    "category": "Administration",
+    "postedDate": "2026-07-01T09:00:00Z",
+    "author": "Dean of Students' Affairs",
+    "summary": "Reporting and orientation details available.",
+    "content": "The induction programme schedule for incoming undergraduate students has been released. The programme includes institute orientation, departmental interaction, hostel briefing, campus tours, and sessions conducted by Technology Students' Gymkhana."
+  },
+  {
+    "id": "n12",
+    "title": "Heavy Rainfall Advisory for Campus",
+    "category": "General",
+    "postedDate": "2026-06-30T17:00:00Z",
+    "author": "Institute Administration",
+    "summary": "Students advised to exercise caution during monsoon.",
+    "content": "In view of the heavy rainfall forecast, students are advised to avoid unnecessary travel during late evening hours, stay away from waterlogged areas, and follow safety instructions issued by institute authorities. Emergency contact numbers remain active throughout the day."
+  }
+]

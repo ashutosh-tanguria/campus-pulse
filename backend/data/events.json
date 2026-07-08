@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e1",
+    "title": "72nd Annual Convocation",
+    "category": "Administration",
+    "venue": "Nalanda Classroom Complex",
+    "date": "2026-08-09T09:30:00Z",
+    "image": "convocation.jpg",
+    "featured": true,
+    "tagline": "Celebrating another batch of IIT Kharagpur graduates",
+    "description": "The 72nd Annual Convocation will be held at the Nalanda Classroom Complex. Degree distribution, medal presentations, and the Director's address will be followed by departmental photograph sessions. Students must report at least one hour before the ceremony."
+  },
+  {
+    "id": "e2",
+    "title": "CGS Weekly General Body Meeting",
+    "category": "CGS",
+    "venue": "CTLVS, JC Laboratory Complex",
+    "date": "2026-07-12T16:30:00Z",
+    "image": "cgs-meeting.jpg",
+    "featured": false,
+    "tagline": "Open discussion on student initiatives",
+    "description": "Computer Graphics Society invites all members for its weekly General Body Meeting. Discussions will include upcoming workshops, project showcases, recruitment plans, and responsibilities for the semester."
+  },
+  {
+    "id": "e3",
+    "title": "Kshitij 2027 Core Team Orientation",
+    "category": "Fests",
+    "venue": "Technology Students' Gymkhana",
+    "date": "2026-07-19T11:00:00Z",
+    "image": "kshitij.jpg",
+    "featured": false,
+    "tagline": "Join Asia's premier techno-management fest",
+    "description": "Students interested in organizing Kshitij 2027 are invited to the orientation session. The event covers different teams including Sponsorship, Events, Marketing, Web, Design, Logistics, and Corporate Relations."
+  },
+  {
+    "id": "e4",
+    "title": "Spring Fest Creative Team Recruitment",
+    "category": "Fests",
+    "venue": "Technology Students' Gymkhana",
+    "date": "2026-07-17T17:00:00Z",
+    "image": "springfest.jpg",
+    "featured": false,
+    "tagline": "Become part of Asia's largest student cultural fest",
+    "description": "Spring Fest is recruiting students for Design, Content, Hospitality, Media, Public Relations, Web, and Events teams. Freshers and sophomores are encouraged to apply."
+  },
+  {
+    "id": "e5",
+    "title": "AI Research Colloquium",
+    "category": "Research",
+    "venue": "Takshashila Complex",
+    "date": "2026-07-23T10:00:00Z",
+    "image": "research.jpg",
+    "featured": false,
+    "tagline": "Recent advances in Generative AI and Robotics",
+    "description": "Faculty members and research scholars from CSE, AI, and Robotics labs will present ongoing research work. Students interested in undergraduate research are encouraged to attend."
+  },
+  {
+    "id": "e6",
+    "title": "Google India Pre-Placement Talk",
+    "category": "Placements",
+    "venue": "Kalidas Auditorium",
+    "date": "2026-07-18T15:00:00Z",
+    "image": "google-ppt.jpg",
+    "featured": false,
+    "tagline": "Software Engineering Internship & FTE Opportunities",
+    "description": "Google recruiters will discuss internship roles, full-time hiring, interview preparation, and life at Google. Eligible students must register through the CDC portal before attending."
+  },
+  {
+    "id": "e7",
+    "title": "Inter Hall General Championship Fixtures",
+    "category": "Sports",
+    "venue": "Jnan Ghosh Stadium",
+    "date": "2026-07-26T16:00:00Z",
+    "image": "interhall.jpg",
+    "featured": false,
+    "tagline": "Football and Basketball league begins",
+    "description": "The annual Inter Hall General Championship fixtures begin this week. Students are encouraged to support their halls across football, basketball, volleyball, athletics, and other sporting events."
+  },
+  {
+    "id": "e8",
+    "title": "Robotics Society Workshop",
+    "category": "Workshops",
+    "venue": "TSG Workshop Room",
+    "date": "2026-07-20T09:30:00Z",
+    "image": "robotics.jpg",
+    "featured": false,
+    "tagline": "Build autonomous robots using ESP32",
+    "description": "Participants will learn embedded systems, motor control, computer vision basics, and autonomous navigation. Hardware kits will be provided during the workshop."
+  },
+  {
+    "id": "e9",
+    "title": "Hall Presidents' Coordination Meeting",
+    "category": "Hall Affairs",
+    "venue": "Senate Hall",
+    "date": "2026-07-15T18:00:00Z",
+    "image": "hall-meeting.jpg",
+    "featured": false,
+    "tagline": "Discussion on hostel facilities and student welfare",
+    "description": "Hall Presidents, Hall Wardens, and student representatives will discuss hostel maintenance, internet connectivity, mess feedback, and preparations for incoming students."
+  },
+  {
+    "id": "e10",
+    "title": "Open Source Hack Night",
+    "category": "Technology Students' Gymkhana",
+    "venue": "Nalanda Classroom Complex",
+    "date": "2026-07-27T19:00:00Z",
+    "image": "hacknight.jpg",
+    "featured": false,
+    "tagline": "Contribute to real-world open source projects",
+    "description": "An overnight collaborative coding session focused on Git, GitHub, Linux, GSoC organizations, and beginner-friendly open source contributions. Mentors from various technical societies will be present."
+  }
+]
