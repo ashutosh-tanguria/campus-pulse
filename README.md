@@ -80,6 +80,3 @@ Campus Pulse is a full-stack dashboard where students can browse campus notices 
 ## Author
 
 Ashutosh Tanguria
-## Author
-
-Ashutosh Tanguria
